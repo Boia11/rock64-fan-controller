@@ -1,4 +1,4 @@
-# Orange Pi Fan Controller
+# Rock64 Fan Controller
 
 PINE Rock64 fan controller.
 
