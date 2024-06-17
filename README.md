@@ -20,5 +20,5 @@ The instructions for do that you can be found on this guide for RPi: [Control Yo
 
 ## Install
 
-
-sudo update-rc.d fancontrol.sh defaults
+`chmod +x ./script/install`
+`./script/install`
